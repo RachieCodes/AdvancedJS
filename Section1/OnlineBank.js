@@ -1,3 +1,5 @@
+// Inheritance and Super Keyword
+
 class BankAccount {
     constructor(accountHolder, accountNumber,balance = 0) {
         this.balance = balance;

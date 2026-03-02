@@ -1,3 +1,5 @@
+// Static Methods and Properties
+
 class ArrayUtils {
   constructor() {
     throw new Error('ArrayUtils cannot be instantiated.');
